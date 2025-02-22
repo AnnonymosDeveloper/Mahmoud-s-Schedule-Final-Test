@@ -1,0 +1,53 @@
+{
+  "data": {
+    "session": [
+      {
+        "day": "Saturday",
+        "time": "9:00-9:30 am",
+        "bgColor": "#000080",
+        "student": "Hamda bel laban"
+      },
+      {
+        "day": "Saturday",
+        "time": "9:30-10:00 am",
+        "bgColor": "#000080",
+        "student": "Hamda bel laban"
+      },
+      {
+        "day": "Friday",
+        "time": "6:30-7:00 pm",
+        "bgColor": "gray"
+      },
+      {
+        "day": "Friday",
+        "time": "7:00-7:30 pm",
+        "bgColor": "gray"
+      },
+      {
+        "day": "Friday",
+        "time": "7:30-8:00 pm",
+        "bgColor": "gray"
+      },
+      {
+        "day": "Friday",
+        "time": "8:00-8:30 pm",
+        "bgColor": "gray"
+      },
+      {
+        "day": "Friday",
+        "time": "8:30-9:00 pm",
+        "bgColor": "gray"
+      },
+      {
+        "day": "Friday",
+        "time": "9:00-9:30 pm",
+        "bgColor": "gray"
+      },
+      {
+        "day": "Friday",
+        "time": "9:30-10:00 pm",
+        "bgColor": "gray"
+      }
+    ]
+  }
+}
